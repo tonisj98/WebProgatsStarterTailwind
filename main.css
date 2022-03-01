@@ -1,0 +1,9 @@
+:root {
+  --primary: #f2b366;
+  --secondary: #3f2f21;
+  --bg-primary: rgba(190, 183, 171, 0.3);
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
